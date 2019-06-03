@@ -8,20 +8,19 @@
     
     Recommend to Use **Python 3**, because python 2.7 will reach the end of its life on *january 1st 2020*
     
-## Python Editors
+## **Python Editors**
 - IDLE
 
 has Automatically been installed while downloading Python
 
-- Visual Studio Code
+- **Visual Studio Code**
 
 can work on Windows, Mac and Linux
 > https://code.visualstudio.com/
 
-- Atom
+- **Atom**
 
-**Recommend**
-  this is my favorite editor, because you can install various pakages and the UI is attracting
+ this is my favorite editor, because you can install various pakages and the UI is attracting
  
  > https://github.com/atom/atom/releases/tag/v1.37.0
 
