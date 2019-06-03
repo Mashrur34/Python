@@ -1,7 +1,7 @@
 # Python
 ### Python Basics
-> for, while loop
-> if statement
-> list
-> dictionary
-> function
+> for, while loop <
+> if statement <
+> list <
+> dictionary <
+> function <
