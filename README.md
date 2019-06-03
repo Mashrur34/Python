@@ -1,3 +1,7 @@
 # Python
-## Python Basics
->
+### Python Basics
+> for, while loop
+> if statement
+> list
+> dictionary
+> function
