@@ -10,7 +10,20 @@
     
 ## Python Editors
 - IDLE
+
 has Automatically been installed while downloading Python
+
+- Visual Studio Code
+
+can work on Windows, Mac and Linux
+> https://code.visualstudio.com/
+
+- Atom
+
+**Recommend**
+  this is my favorite editor, because you can install various pakages and the UI is attracting
+ 
+ > https://github.com/atom/atom/releases/tag/v1.37.0
 
 ## Python Basics
 ### for, while loop 
