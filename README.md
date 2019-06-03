@@ -1,7 +1,11 @@
 # Python
-### Python Basics
-> for, while loop <
-> if statement <
-> list <
-> dictionary <
-> function <
+
+## Python editors
+- IDLE
+
+## Python Basics
+### for, while loop 
+### if statement 
+### list 
+### dictionary 
+### function 
