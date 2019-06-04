@@ -12,9 +12,9 @@ Recommend to Use **Python 3**, because python 2.7 will reach the end of its life
     
     
 ##### While install please make sure that you checked "Add Python 3.* to PATH"
----
+
 ![Path](https://github.com/EequalsMCsquare/Python/blob/master/images/PATH.PNG 'Installation')
----
+
 
 
 ## **Python Editors**
