@@ -54,4 +54,7 @@ Type "help", "copyright", "credits" or "license" for more information.**
 If your computer can not find Python, then you have set your environment variables. Please follow this instruction.
 > https://docs.python.org/3/using/windows.html#excursus-setting-environment-variables
 
+## Table of Contents
+1. [Py Basics](https://github.com/EequalsMCsquare/Python/tree/master/Python%20Basics#python-basics "Python Basics")
+
 
