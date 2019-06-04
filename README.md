@@ -55,6 +55,6 @@ If your computer can not find Python, then you have set your environment variabl
 > https://docs.python.org/3/using/windows.html#excursus-setting-environment-variables
 
 ## Table of Contents
-1. [Py Basics](https://github.com/EequalsMCsquare/Python/tree/master/Python%20Basics#python-basics "Python Basics")
+1. [Python Basics](https://github.com/EequalsMCsquare/Python/tree/master/Python%20Basics#python-basics "Python Basics")
 
 
