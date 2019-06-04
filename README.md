@@ -1,4 +1,5 @@
-# **Python**
+# **Python** 
+![Python](https://www.python.org/static/img/python-logo@2x.png)
 
 ## Download Python
   - Winodws
@@ -11,7 +12,7 @@
 ## **Python Editors**
 - IDLE
 
-has Automatically been installed while downloading Python
+has Automatically been installed while installing Python
 
 - **Visual Studio Code**
 
