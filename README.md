@@ -11,7 +11,7 @@
 
 ##### While install please make sure that you checked "Add Python 3.* to PATH"
 ---
-![avatar][PyPATHsetting]
+[Path](https://github.com/EequalsMCsquare/Python/blob/master/images/PATH.PNG 'Installation')
 ---
 
 
