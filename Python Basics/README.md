@@ -18,20 +18,20 @@ Hello Python
 ```
 
 ## Standard Data Type  
-1.  Number
-    - ##### 6
-    - ##### 0.7
-2.  String
-    - ##### "Good Morning!"
-3.  List
-    - ##### [1,2,3,0.5]
-    - ##### [1,2,"Text",True]
-4.  Tuple
-    - ##### (1,2,3)
-5.  Set
-    - ##### {1,0.2,3,"String",False}
-6.  Dictionary
-    - ##### {"age":1, "Name": "EequalsMC^2","Python":True}
+- Number
+    1. ##### 6
+    2. ##### 0.7
+- String
+    1. ##### "Good Morning!"
+- List
+    1. ##### [1,2,3,0.5]
+    2. ##### [1,2,"Text",True]
+- Tuple
+    1. ##### (1,2,3)
+- Set
+    1. ##### {1,0.2,3,"String",False}
+- Dictionary
+     ##### {"age":1, "Name": "EequalsMC^2","Python":True}
 ---
 
 ### for, while loop 
