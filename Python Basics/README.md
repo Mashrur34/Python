@@ -34,8 +34,8 @@ Hello Python
      ##### {"age":1, "Name": "EequalsMC^2","Python":True}
 ---
 
+### list
 ### for, while loop 
-### if statement 
-### list 
+### if statement  
 ### dictionary 
 ### function 
