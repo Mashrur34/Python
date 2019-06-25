@@ -1,0 +1,10 @@
+[W 00:33:49.610 NotebookApp] Config option `allow_remote_access` not recognized by `NotebookApp`.  Did you mean one of: `allow_credentials, allow_root`?
+[I 00:33:49.618 NotebookApp] Writing notebook server cookie secret to /run/user/500/jupyter/notebook_cookie_secret
+[W 00:33:50.100 NotebookApp] WARNING: The notebook server is listening on all IP addresses and not using encryption. This is not recommended.
+[I 00:33:50.100 NotebookApp] The port 8888 is already in use, trying another port.
+[I 00:33:50.175 NotebookApp] [jupyter_nbextensions_configurator] enabled 0.4.1
+[I 00:33:50.180 NotebookApp] Serving notebooks from local directory: /home
+[I 00:33:50.180 NotebookApp] 0 active kernels
+[I 00:33:50.180 NotebookApp] The Jupyter Notebook is running at:
+[I 00:33:50.180 NotebookApp] http://[all ip addresses on your system]:8889/
+[I 00:33:50.180 NotebookApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
