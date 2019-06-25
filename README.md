@@ -56,5 +56,10 @@ If your computer can not find Python, then you have set your environment variabl
 
 ## Table of Contents
 1. [Python Basics](https://github.com/EequalsMCsquare/Python/tree/master/Python%20Basics#python-basics "Python Basics")
-
+2. [Numpy]()
+3. [Pandas]()
+4. [Matplotlib]()
+5. [Intro 4 ML]()
+6. [Scikit-Learn]()
+7. [TensorFlow]()
 
