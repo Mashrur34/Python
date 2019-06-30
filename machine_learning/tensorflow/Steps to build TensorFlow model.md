@@ -7,9 +7,11 @@
 ```py
 from sklearn.model_selection import train_test_split
 #首先把数据集先拆分成训练集（全）和测试集
-x_train_all, x_test, y_train_all, y_test = train_test_split(Features , Labels, random_state = 1)
+x_train_all, x_test, y_train_all, y_test = train_test_split(Features , Labels, 
+                                                            random_state = 1)
 #然后把测试集（全）分成训练集和验证集
-x_train, x_valid, y_train, y_valid = train_test_split(x_train_all , y_train_all, random_state = 2)
+x_train, x_valid, y_train, y_valid = train_test_split(x_train_all , y_train_all,      
+                                                            random_state = 2)
 ```
 
 ## 数据归一化来提升模型收敛速度（可选择）
@@ -55,7 +57,9 @@ callbacks = [keras.callbacks.EarlyStopping(patience = 10, min_delta = 1e-5)]
 ## 训练模型
 传入x_train 和 y_train 来训练模型
 ```py
-hist = model.fit(x_train, y_train, epochs = 1000, validation_data = (x_valid, y_valid), callbacks = callbacks)
+hist = model.fit(x_train, y_train, epochs = 1000, 
+validation_data = (x_valid, y_valid), 
+callbacks = callbacks)
 ```
 
 
